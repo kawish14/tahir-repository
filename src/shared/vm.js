@@ -1,0 +1,1 @@
+export const vm = 'http://45.249.11.5:28881/geoserver/Central_Postgis/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=Central_Postgis'

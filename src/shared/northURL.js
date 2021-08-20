@@ -1,0 +1,1 @@
+export const northURL = 'http://45.249.11.5:28881/geoserver/North_Postgis/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=North_Postgis'
